@@ -10,8 +10,7 @@
  <field name="city"/>
  <field name="api_key"/>
  </group>
- <!-- Agrupamos el botón en un div para evitar que se monte con otros campos --
->
+ <!-- Agrupamos el botón en un div para evitar que se monte con otros campos -->
  <div class="oe_button_box" name="button_box">
  <button name="get_weather_data" type="object" string="Obtener Clima"
 class="oe_stat_button"/>
